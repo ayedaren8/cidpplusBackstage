@@ -1,0 +1,6 @@
+phantomjs
+db.sqlite3
+app
+uwsgi9090.log
+__pycache__
+*.pyc
